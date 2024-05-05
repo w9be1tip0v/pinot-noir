@@ -1,0 +1,4 @@
+langchain
+lxml
+pandas
+requests
